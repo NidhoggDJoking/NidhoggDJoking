@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/NPM-rely--on-red?logo=npm&style=flat-square">
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/NodeJs-development--environment-brightgreen?logo=node-dot-js&style=flat-square">
+    <img src="https://img.shields.io/badge/NodeJs-development--environment-brightgreen?logo=node-dot-js&style=flat-squar">
   </a>
 </p>
 
