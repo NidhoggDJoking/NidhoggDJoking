@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center" style="color:#ff738b">私は永遠に彼女を愛している</h1>
+<h1 align="center" color="#ff738b" style="color:#ff738b">私は永遠に彼女を愛している</h1>
 
 <p align="center">
   <a>
