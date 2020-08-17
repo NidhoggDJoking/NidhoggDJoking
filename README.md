@@ -4,6 +4,9 @@
   </a>
 </p>
 
+
+<h1 align="center" style="color:#ff738b">私は永遠に彼女を愛している</h1>
+
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/VSCode-My--development--tool-informational?logo=visual-studio-code&style=flat-square">
@@ -18,4 +21,3 @@
 
 
 
-<h1 align="center">私は永遠に彼女を愛している</h1>
