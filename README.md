@@ -1,3 +1,9 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
+
+
 <p align="center">
   <a href="https://github.com/NidhoggDJoking" target="_blank">
     <img width="250" src="https://nidhoggdjoking.gitee.io/evolution/static/png/inori-removebg-preview.png" alt="logo"/>
@@ -17,10 +23,4 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/NodeJs-development--environment-brightgreen?logo=nginx&style=flat-squar"/>
   </a>
-</p>
-
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 </p>
