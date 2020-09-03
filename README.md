@@ -38,10 +38,7 @@
 ![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=NidhoggDJoking.github.io&theme=cobalt&show_icons=true)
 
 
-<p align="left">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=uni-app&theme=shades-of-purple)](https://github.com/NidhoggDJoking/uni-app)
-</p>
 
-<p align="right">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=BackstageTemplate&theme=tokyonight)](https://github.com/NidhoggDJoking/BackstageTemplate)
-</p>
