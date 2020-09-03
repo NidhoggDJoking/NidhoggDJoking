@@ -25,3 +25,9 @@
   <a href="https://count.getloli.com/">
   <img src="https://count.getloli.com/get/@github.readme?theme=gelbooru"></a>
 </p>
+
+
+<p align="left">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&show_icons=true&include_all_commits=true">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking">
+</p>
