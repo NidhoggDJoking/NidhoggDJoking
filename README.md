@@ -29,12 +29,14 @@
 
 <p align="left">
   <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&show_icons=true&include_all_commits=true">
-  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking">
+  <!-- <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking"> -->
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking)
 
 
-![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=BackstageTemplate&theme=cobalt&show_icons=true)
+![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=NidhoggDJoking.github.io&theme=cobalt&show_icons=true)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=uni-app&theme=shades-of-purple)](https://github.com/NidhoggDJoking/uni-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=BackstageTemplate&theme=tokyonight)](https://github.com/NidhoggDJoking/BackstageTemplate)
