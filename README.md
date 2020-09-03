@@ -33,3 +33,6 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking)
+
+
+![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=BackstageTemplate&theme=cobalt&show_icons=true)
