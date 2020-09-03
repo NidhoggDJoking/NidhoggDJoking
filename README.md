@@ -39,6 +39,4 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=uni-app&theme=shades-of-purple)](https://github.com/NidhoggDJoking/uni-app)
-
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=BackstageTemplate&theme=tokyonight)](https://github.com/NidhoggDJoking/BackstageTemplate)
