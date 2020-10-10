@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/NidhoggDJoking" target="_blank">
     <!-- <img width="250" src="https://nidhoggdjoking.gitee.io/evolution/static/png/inori-removebg-preview.png" alt="logo"/> -->
-    <img width="250" src="https://raw.githubusercontent.com/NidhoggDJoking/NidhoggDJoking/master/static/inori.png" alt="logo"/>
+    <img width="250" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@1.0/img/inori.png" alt="logo"/>
   </a>
 </p>
 
