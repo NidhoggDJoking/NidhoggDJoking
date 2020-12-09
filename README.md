@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://count.getloli.com/">
-  <img src="https://count.getloli.com/get/@github.readme?theme=gelbooru"></a>
+  <img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
 </p>
 
 
