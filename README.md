@@ -1,13 +1,11 @@
 <p align="center">
   <a href="https://github.com/NidhoggDJoking" target="_blank">
-    <!-- <img width="250" src="https://nidhoggdjoking.gitee.io/evolution/static/png/inori-removebg-preview.png" alt="logo"/> -->
-    <img width="250" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@1.0/img/inori.png" alt="logo"/>
+    <img width="250" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@2.2/img/inori.png" alt="logo"/>
   </a>
 </p>
 
 
 <h1 align="center" color="#ff738b" style="color:#ff738b">私は永遠に彼女を愛している</h1>
-
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/VSCode-My--development--tool-informational?logo=visual-studio-code&style=flat-square">
