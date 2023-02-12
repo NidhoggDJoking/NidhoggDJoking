@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/NidhoggDJoking" target="_blank">
-    <img width="250" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@2.2/img/inori.png" alt="logo"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@2.4/img/snoopy.png" alt="logo"/>
   </a>
 </p>
 
 
-<h1 align="center" color="#ff738b" style="color:#ff738b">私は永遠に彼女を愛している</h1>
+<h1 align="center" color="#ff738b" style="color:#ff738b">Nidhogg·D·Joking</h1>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/VSCode-My--development--tool-informational?logo=visual-studio-code&style=flat-square">
@@ -20,10 +20,16 @@
 
 <br>
 
+
+
 <p align="center">
   <a href="https://count.getloli.com/">
   <img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
 </p>
+
+<!-- <p align="center">
+  <img src="https://profile-counter.glitch.me/NidhoggDJoking/count.svg"/>
+</p> -->
 
 
 <p align="left">
@@ -32,6 +38,8 @@
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking) -->
+
+
 
 
 <!-- ![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=NidhoggDJoking.github.io&theme=cobalt&show_icons=true) -->
