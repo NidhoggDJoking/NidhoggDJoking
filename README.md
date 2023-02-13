@@ -33,8 +33,8 @@
 
 
 <p align="left">
-  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&show_icons=true&include_all_commits=true&theme=onedark">
-  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=vue-dark">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&show_icons=true&include_all_commits=true&theme=synthwave">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=jolly">
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking) -->
@@ -46,4 +46,6 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=vitepress&theme=shades-of-purple)](https://github.com/NidhoggDJoking/vitepress)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=BackstageTemplate&theme=tokyonight)](https://github.com/NidhoggDJoking/BackstageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=JSvelte&theme=panda)](https://github.com/NidhoggDJoking/JSvelte)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking/vitepress) -->
