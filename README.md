@@ -16,6 +16,9 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/NodeJs-development--environment-brightgreen?logo=nginx&style=flat-squar"/>
   </a>
+  <a href="https://github.com/codespaces" target="_blank">
+    <img src="https://img.shields.io/badge/codespaces-online%20edit-blue?logo=GitHub&style=flat-squar&color=ff69b4"/>
+  </a>
 </p>
 
 <br>
