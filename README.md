@@ -10,7 +10,7 @@
   <a>
     <img src="https://img.shields.io/badge/VSCode-My--development--tool-informational?logo=visual-studio-code&style=flat-square">
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
+  <a href="https://www.npmjs.com/~nidhoggdjoker" target="_blank">
     <img src="https://img.shields.io/badge/NPM-rely--on-red?logo=npm&style=flat-square"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
