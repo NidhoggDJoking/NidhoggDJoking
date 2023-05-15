@@ -42,9 +42,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking) -->
 
-
-
-
 <!-- ![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=NidhoggDJoking.github.io&theme=cobalt&show_icons=true) -->
 
 
@@ -52,3 +49,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=JSvelte&theme=panda)](https://github.com/NidhoggDJoking/JSvelte)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking/vitepress) -->
+
+
+<!-- <p align="left">
+  <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=nidhoggdjoking&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=800&svg.height=176"/>
+</p>
+ -->
