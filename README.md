@@ -19,7 +19,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NidhoggDJoking)](https://github.com/NidhoggDJoking/NidhoggDJoking)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NidhoggDJoking)](https://github.com/NidhoggDJoking/NidhoggDJoking) -->
 
 
 ![](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
