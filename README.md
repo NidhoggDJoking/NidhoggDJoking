@@ -22,7 +22,13 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NidhoggDJoking)](https://github.com/NidhoggDJoking/NidhoggDJoking) -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=NidhoggDJoking&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+
+<p align="center">
+  <img alt="ouuan's github stats" height='230' src="https://github-readme-streak-stats.herokuapp.com/?user=NidhoggDJoking&theme=tokyonight&hide_border=true">
+</p>
 
