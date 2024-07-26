@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center" color="#ff738b" style="color:#ff738b">Nidhogg·D·Joking</h1>
+<h1 align="center" style="color:#ff738b">Nidhogg·D·Joking</h1>
 
 
 <p align="center">
@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,vue,react,vscode,npm">
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NidhoggDJoking)](https://github.com/NidhoggDJoking/NidhoggDJoking)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
