@@ -30,28 +30,10 @@
   <img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://profile-counter.glitch.me/NidhoggDJoking/count.svg"/>
-</p> -->
 
 
-<p align="left">
-  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&show_icons=true&include_all_commits=true&theme=synthwave">
-  <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=jolly">
-</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking) -->
+![](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=NidhoggDJoking&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![NidhoggDJoking's github stats](https://github-readme-stats.vercel.app/api?username=NidhoggDJoking&repo=NidhoggDJoking.github.io&theme=cobalt&show_icons=true) -->
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=vitepress&theme=shades-of-purple)](https://github.com/NidhoggDJoking/vitepress)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NidhoggDJoking&repo=JSvelte&theme=panda)](https://github.com/NidhoggDJoking/JSvelte)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhoggDJoking&layout=compact)](https://github.com/NidhoggDJoking/vitepress) -->
-
-
-<!-- <p align="left">
-  <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=nidhoggdjoking&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=800&svg.height=176"/>
-</p>
- -->
