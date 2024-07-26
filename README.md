@@ -11,6 +11,9 @@
   <img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
 </p>
 
+
+<!--  <h3 align="center" >My Skill</h3> -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,vue,react,vscode,npm">
 </p>
