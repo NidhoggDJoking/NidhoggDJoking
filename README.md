@@ -17,9 +17,15 @@
 
 <!--  <h3 align="center" >My Skill</h3> -->
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,vue,react,vscode,npm">
 </p>
+
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/7O6dl/eyJyIjoiZnMiLCJoIjoxMywidyI6MTAwMCwiZnMiOjEzLCJmZ2MiOiIjOUM5QzlDIiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/TXkgU2tpbGw/remover-personal-use-only.png"/>
+</p>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NidhoggDJoking)](https://github.com/NidhoggDJoking/NidhoggDJoking) -->
 
