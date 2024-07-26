@@ -4,11 +4,14 @@
   </a>
 </p>
 
-<h1 align="center" style="color:#ff738b">Nidhogg·D·Joking</h1>
+<!--  <h1 align="center" style="color:#ff738b">Nidhogg·D·Joking</h1> -->
 
 <p align="center">
-  <a href="https://count.getloli.com/">
-  <img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
+  <img src="https://see.fontimg.com/api/renderfont4/j99Vy/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/TmlkaG9nZ8K3RMK3Sm9raW5n/miraclefridaydemo.png"/>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@github.readme?theme=rule34"/>
 </p>
 
 
